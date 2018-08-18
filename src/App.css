@@ -1,0 +1,24 @@
+.App {
+  margin-top: 30px;
+  text-align: center;
+}
+.Output{
+	text-decoration: underline;
+	font-weight:  bold;
+}
+.Input{
+	background-color: yellow;
+}
+.Validation{
+	color: red;
+}
+.Char{
+	padding: 16px;
+	text-align: center;
+	margin: 16px;
+	border: 1px solid black;
+}
+
+.Line{
+	display: inline-block;
+}
